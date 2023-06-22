@@ -1,0 +1,1 @@
+enum vacationstatus { hour, day }
